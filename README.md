@@ -1,4 +1,4 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm Siddhant Salve</h1>
 <h3 align="center">🚀 Full-Stack Developer | Next.js | MERN Stack | UI/UX Enthusiast</h3>
 
