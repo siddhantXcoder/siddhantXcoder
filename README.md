@@ -1,14 +1,18 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Siddhant Salve</h1>
 <h3 align="center">🚀 Full-Stack Developer | Next.js | MERN Stack | UI/UX Enthusiast</h3>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+and+high-performance+web+apps;Passionate+about+MERN+Stack+%7C+Next.js;Problem+Solver+%7C+UI%2FUX+Designer+%7C+Tech+Enthusiast;Always+learning+new+technologies+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
+
+
+<p align="center">
+  <img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l6eTNveDA3aGFpcGxyc2I3MDE1cTU0Z2JwZnZoa3FrcmEzbjJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+</p>
+
 ---
-<image align = "right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l6eTNveDA3aGFpcGxyc2I3MDE1cTU0Z2JwZnZoa3FrcmEzbjJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 ## 🚀 About Me  
 - 🔭 Currently working on **Hustlerz**  
 - 🌱 Exploring **Next.js & Advanced Full-Stack Development**  
@@ -16,7 +20,6 @@
 - 📫 Reach me at **siddhant123salve@gmail.com**  
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1XPtaY_R0ZukDK35OwDYt5hEVYPE2iaJd/view?usp=sharing)**  
 - ⚡ **Fun fact:** I think I am dark 🙃  
-
 ---
 
 ## 🔥 Tech Stack & Tools  
